@@ -8,6 +8,5 @@ puts sum
 current_president = "Barack Obama"
 puts "In 2016, the president was #{current_president}."
 
-my_list = [2,4,"hi","what's up",current_president]
-
-puts my_list
+current_president = "Stephen Colbert"
+puts "Now, it being the year 2017, the president is #{current_president}"
